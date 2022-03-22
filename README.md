@@ -1,5 +1,4 @@
 Hi, I'm Bo! I'm a grad student working on my Master's in Computer Science.<br>
-I am non-binary and use `they/them` pronouns, please.
 
 I am primarily interested in computer graphics.
 
