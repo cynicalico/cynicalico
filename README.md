@@ -1,4 +1,4 @@
-Hi, I'm Aoife! I'm a grad student working on my Master's in Computer Science.<br>
+Hi, I'm Beau(regarde)! I'm a grad student working on my Master's in Computer Science.<br>
 
 I am primarily interested in computer graphics, moreso visualization than games.
 
