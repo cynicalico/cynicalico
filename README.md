@@ -1,4 +1,4 @@
-Hi, I'm Beau(regarde)! I'm a grad student working on my Master's in Computer Science.<br>
+Hi, I'm Bo! I'm a grad student working on my Master's in Computer Science.<br>
 
 I am primarily interested in computer graphics, moreso visualization than games. I work primarily in C++.<br>
 I'm also well-versed in Python, especially for automation, and I have dabbled in a number of other languages (C#, Ruby, etc).<br>
