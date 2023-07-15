@@ -1,4 +1,4 @@
-Hi, I'm Bo! I'm a grad student working on my Master's in Computer Science.<br>
+Hi, I'm Bo!
 
 I am primarily interested in computer graphics, moreso visualization than games. I work primarily in C++.<br>
 I'm also well-versed in Python, especially for automation, and I have dabbled in a number of other languages (C#, Ruby, etc).<br>
@@ -9,4 +9,3 @@ Non-programming hobbies include mechanical keyboards, anime, occasional chess, a
 日本語を勉強しています。I am still very much a beginner, though!
 
 I have a [devblog](https://hash-collision.com) where I sometimes talk about things that were more interesting to implement.
-It's also just a normal blog, I put non-dev things on there as well.
